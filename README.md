@@ -1,7 +1,7 @@
 ## ![IPS](https://github.com/byIx/byIx/blob/main/ic.jpg) IPS Plugins Updaters:
 
 | Name                                      | Checking                               | Version | Updates                                                                       |
-| ----------------------------------------- | -------------------------------------- | ------- |:-----------------------------------------------------------------------------:|
+| ----------------------------------------- |:--------------------------------------:|:-------:|:-----------------------------------------------------------------------------:|
 | **(k4) Yandex NewYear Garland**           | [Link](https://github.com/byIx/ynyg)   | `1.0.1` | [Link](https://ipbmafia.ru/files/file/2614-k4-yandex-newyear-garland)         |
 | **(k4) Info to postContainer**            | [Link](https://github.com/byIx/ipc)    | `2.2.2` | [Link](https://ipbmafia.ru/files/file/2491-k4-info-to-postcontainer)          |
 | **(k4) ProfileFieldsRemake**              | [Link](https://github.com/byIx/pfr)    | `1.1.0` | [Link](https://ipbmafia.ru/files/file/2597-k4-profilefieldsremake)            |
