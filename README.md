@@ -1,4 +1,4 @@
-## ![IPS](https://github.com/byIx/byIx/blob/main/ic.jpg) IPS Plugins Updaters:
+## ![IPS](https://github.com/byIx/byIx/blob/main/ic.jpg) IPS4 Plugins Updaters:
 
 | Name                                      | Checking                                | Version | Updates                                                                       |
 | ----------------------------------------- |:---------------------------------------:|:-------:|:-----------------------------------------------------------------------------:|
