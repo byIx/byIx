@@ -2,7 +2,7 @@
 
 | Name                                      | Checking                                | Version | Updates                                                                       |
 | ----------------------------------------- |:---------------------------------------:|:-------:|:-----------------------------------------------------------------------------:|
-| **(k4) Post EditButton**                  | [Link](https://github.com/byIx/posteb)  | `1.0.0` | [Link](https://ipbmafia.ru/files/file/2628-k4-acp-uploadbuttons)              |
+| **(k4) Post EditButton**                  | [Link](https://github.com/byIx/posteb)  | `1.0.0` | [Link](https://ipbmafia.ru/files/file/2629-k4-post-editbutton)                |
 | **(k4) ACP UploadButtons**                | [Link](https://github.com/byIx/acpub)   | `1.0.0` | [Link](https://ipbmafia.ru/files/file/2628-k4-acp-uploadbuttons)              |
 | **(k4) Yandex NewYear Garland**           | [Link](https://github.com/byIx/ynyg)    | `1.0.1` | [Link](https://ipbmafia.ru/files/file/2614-k4-yandex-newyear-garland)         |
 | **(k4) ProfileFieldsRemake**              | [Link](https://github.com/byIx/pfr)     | `1.1.0` | [Link](https://ipbmafia.ru/files/file/2597-k4-profilefieldsremake)            |
