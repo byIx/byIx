@@ -2,10 +2,11 @@
 
 | Name                                      | Checking                                | Version | Updates                                                                       |
 | ----------------------------------------- |:---------------------------------------:|:-------:|:-----------------------------------------------------------------------------:|
+| **(k4) ACP UploadButtons**                | [Link](https://github.com/byIx/acpub)   | `1.0.0` | [Link](https://ipbmafia.ru/files/file/2628-k4-acp-uploadbuttons)              |
 | **(k4) Yandex NewYear Garland**           | [Link](https://github.com/byIx/ynyg)    | `1.0.1` | [Link](https://ipbmafia.ru/files/file/2614-k4-yandex-newyear-garland)         |
-| **(k4) Info to postContainer**            | [Link](https://github.com/byIx/ipc)     | `2.2.2` | [Link](https://ipbmafia.ru/files/file/2491-k4-info-to-postcontainer)          |
 | **(k4) ProfileFieldsRemake**              | [Link](https://github.com/byIx/pfr)     | `1.1.0` | [Link](https://ipbmafia.ru/files/file/2597-k4-profilefieldsremake)            |
 | **(k4) WhosOnline & ActiveUsers NoCache** | [Link](https://github.com/byIx)         | `1.0.0` | [Link](https://ipbmafia.ru/files/file/2528-k4-whosonline-activeusers-nocache) |
+| **(k4) Info to postContainer**            | [Link](https://github.com/byIx/ipc)     | `2.2.2` | [Link](https://ipbmafia.ru/files/file/2491-k4-info-to-postcontainer)          |
 | **(SIV41) Insert Nickname**               | [Link](https://github.com/byIx/insname) | `1.0.3` | [Link](https://ipbmafia.ru/topic/15373-siv41-insert-nickname-102)             |
 | **Easy mention**                          | [Link](https://github.com/byIx/easym)   | `1.0.1` | [Link](https://ipbmafia.ru/files/file/2176-easy-mention-101)                  |
 | **(WK) User Steam Group**                 | [Link](https://github.com/byIx/usg)     | `1.1.0` | [Link](https://ipbmafia.ru/files/file/2599-wk-user-steam-group)               |
