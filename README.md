@@ -8,12 +8,12 @@
 | **(k4) ProfileFieldsRemake**              | [Link](https://github.com/byIx/pfr)     | `1.2.1` | [Link](https://ipbmafia.ru/files/file/2597-k4-profilefieldsremake)            |
 | **(k4) WhosOnline & ActiveUsers NoCache** | [Link](https://github.com/byIx)         | `1.0.0` | [Link](https://ipbmafia.ru/files/file/2528-k4-whosonline-activeusers-nocache) |
 | **(k4) Info to postContainer**            | [Link](https://github.com/byIx/ipc)     | `2.2.2` | [Link](https://ipbmafia.ru/files/file/2491-k4-info-to-postcontainer)          |
-| **One IP One Account**                    | [Link](https://github.com/byIx/oneip)   | `1.0.1` | [Link](https://github.com/byIx/oneip/releases)                               |
+| **One IP One Account**                    | [Link](https://github.com/byIx/oneip)   | `1.0.1` | [Link](https://github.com/byIx/oneip/releases)                                |
 | **(SIV41) Insert Nickname**               | [Link](https://github.com/byIx/insname) | `1.0.3` | [Link](https://ipbmafia.ru/topic/15373-siv41-insert-nickname-102)             |
 | **Easy mention**                          | [Link](https://github.com/byIx/easym)   | `1.0.1` | [Link](https://ipbmafia.ru/files/file/2176-easy-mention-101)                  |
 | **(WK) User Steam Group**                 | [Link](https://github.com/byIx/usg)     | `1.1.0` | [Link](https://ipbmafia.ru/files/file/2599-wk-user-steam-group)               |
 | **Better Statistics**                     | [Link](https://github.com/byIx/bstats)  | `1.1.0` | [Link](https://ipbmafia.ru/files/file/2499-better-statistics)                 |
-| **Traffic Generator**                     | [Link](https://github.com/byIx/tgen)    | `2.0.0` | [Link](https://github.com/byIx/tgen/releases)                                  |
+| **Traffic Generator**                     | [Link](https://github.com/byIx/tgen)    | `2.0.2` | [Link](https://github.com/byIx/tgen/releases)                                 |
 | **Click to Mention**                      | [Link](https://github.com/byIx/click)   | `1.2.1` | [Link](https://ipbmafia.ru/files/file/2490-click-to-mention)                  |
 | **Customize Admin Login Page**            | [Link](https://github.com/byIx/calp)    | `1.3.0` | [Link](https://ipbmafia.ru/files/file/2492-customize-admin-login-page)        |
 
