@@ -2,6 +2,7 @@
 
 | Name                                         | Checking                                | Version | Updates                                                                       |
 | -------------------------------------------- |:---------------------------------------:|:-------:|:-----------------------------------------------------------------------------:|
+| **(k4) Profile Visitors Count**              | [Link](https://github.com/byIx/pvc)     | `1.0.0` | [Link](https://ipbmafia.ru/files/file/111)                                    |
 | **(k4) Hide Content**                        | [Link](https://github.com/byIx/hide)    | `1.1.0` | [Link](https://ipbmafia.ru/files/file/2679-k4-hidden-content)                 |
 | **(k4) Insert Blocks to the Store Packages** | [Link](https://github.com/byIx/ibsp)    | `1.0.0` | [Link](https://ipbmafia.ru/files/file/111)                                    |
 | **(k4) Post EditButton**                     | [Link](https://github.com/byIx/posteb)  | `1.0.0` | [Link](https://ipbmafia.ru/files/file/2629-k4-post-editbutton)                |
