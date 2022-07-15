@@ -2,6 +2,7 @@
 
 | Name                                            | Checking                                | Version | Updates                                                                       |
 | ----------------------------------------------- |:---------------------------------------:|:-------:|:-----------------------------------------------------------------------------:|
+| **(k4) Global Statistics**                      | [Link](https://github.com/byIx/glstats) | `2.0.0` | [Link](https://ipbmafia.ru/files/file/2499-k4-global-statistics)              |
 | **(k4) Profile Visitors Count Changer**         | [Link](https://github.com/byIx/pvc)     | `1.1.0` | [Link](https://ipbmafia.ru/files/file/2680-k4-profile-visitors-count)         |
 | **(k4) Hidden Content**                         | [Link](https://github.com/byIx/hide)    | `2.2.0` | [Link](https://ipbmafia.ru/files/file/2679-k4-hidden-content)                 |
 | **(k4) Insert Blocks to the Store Packages**    | [Link](https://github.com/byIx/ibsp)    | `1.0.0` | [Link](https://ipbmafia.ru/files/file/111)                                    |
@@ -17,7 +18,6 @@
 | **(SIV41) Insert Nickname**                     | [Link](https://github.com/byIx/insname) | `1.0.3` | [Link](https://ipbmafia.ru/topic/15373-siv41-insert-nickname-102)             |
 | **Easy mention**                                | [Link](https://github.com/byIx/easym)   | `1.0.1` | [Link](https://ipbmafia.ru/files/file/2176-easy-mention-101)                  |
 | **(WK) User Steam Group**                       | [Link](https://github.com/byIx/usg)     | `1.1.0` | [Link](https://ipbmafia.ru/files/file/2599-wk-user-steam-group)               |
-| **Better Statistics**                           | [Link](https://github.com/byIx/bstats)  | `1.1.0` | [Link](https://ipbmafia.ru/files/file/2499-better-statistics)                 |
 | **Click to Mention**                            | [Link](https://github.com/byIx/click)   | `1.2.1` | [Link](https://ipbmafia.ru/files/file/2490-click-to-mention)                  |
 | **Customize Admin Login Page**                  | [Link](https://github.com/byIx/calp)    | `1.3.0` | [Link](https://ipbmafia.ru/files/file/2492-customize-admin-login-page)        |
 
