@@ -2,7 +2,7 @@
 
 | Name                                            | Checking                                | Version | Updates                                                                       |
 | ----------------------------------------------- |:---------------------------------------:|:-------:|:-----------------------------------------------------------------------------:|
-| **(k4) Member Rank Progress**                   | [Link](https://github.com/byIx/mrp)     | `1.0.1` | [Link](https://ipbmafia.ru/files/file/2686-k4-member-rank-progress)           |
+| **(k4) Member Rank Progress**                   | [Link](https://github.com/byIx/mrp)     | `1.1.0` | [Link](https://ipbmafia.ru/files/file/2686-k4-member-rank-progress)           |
 | **(k4) Global Statistics**                      | [Link](https://github.com/byIx/glstats) | `2.0.0` | [Link](https://ipbmafia.ru/files/file/2499-k4-global-statistics)              |
 | **(k4) Profile Visitors Count Changer**         | [Link](https://github.com/byIx/pvc)     | `1.1.0` | [Link](https://ipbmafia.ru/files/file/2680-k4-profile-visitors-count)         |
 | **(k4) Hidden Content**                         | [Link](https://github.com/byIx/hide)    | `2.2.0` | [Link](https://ipbmafia.ru/files/file/2679-k4-hidden-content)                 |
