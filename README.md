@@ -2,7 +2,7 @@
 
 | Name                                            | Checking                                | Version | Updates                                                                       |
 | ----------------------------------------------- |:---------------------------------------:|:-------:|:-----------------------------------------------------------------------------:|
-| **(k4) Member Rank Progress**                   | [Link](https://github.com/byIx/mrp)     | `1.1.1` | [Link](https://ipbmafia.ru/files/file/2686-k4-member-rank-progress)           |
+| **(k4) Member Rank Progress**                   | [Link](https://github.com/byIx/mrp)     | `1.2.0` | [Link](https://ipbmafia.ru/files/file/2686-k4-member-rank-progress)           |
 | **(k4) Global Statistics**                      | [Link](https://github.com/byIx/glstats) | `2.0.0` | [Link](https://ipbmafia.ru/files/file/2499-k4-global-statistics)              |
 | **(k4) Profile Visitors Count Changer**         | [Link](https://github.com/byIx/pvc)     | `1.1.0` | [Link](https://ipbmafia.ru/files/file/2680-k4-profile-visitors-count)         |
 | **(k4) Hidden Content**                         | [Link](https://github.com/byIx/hide)    | `2.2.0` | [Link](https://ipbmafia.ru/files/file/2679-k4-hidden-content)                 |
@@ -12,7 +12,7 @@
 | **(k4) Yandex NewYear Garland**                 | [Link](https://github.com/byIx/ynyg)    | `1.0.1` | [Link](https://ipbmafia.ru/files/file/2614-k4-yandex-newyear-garland)         |
 | **(k4) ProfileFieldsRemake**                    | [Link](https://github.com/byIx/pfr)     | `1.2.1` | [Link](https://ipbmafia.ru/files/file/2597-k4-profilefieldsremake)            |
 | **(k4) WhosOnline & ActiveUsers NoCache**       | [Link](https://github.com/byIx)         | `1.0.0` | [Link](https://ipbmafia.ru/files/file/2528-k4-whosonline-activeusers-nocache) |
-| **(k4) Info to postContainer**                  | [Link](https://github.com/byIx/ipc)     | `2.5.0` | [Link](https://ipbmafia.ru/files/file/2491-k4-info-to-postcontainer)          |
+| **(k4) Info to postContainer**                  | [Link](https://github.com/byIx/ipc)     | `2.6.0` | [Link](https://ipbmafia.ru/files/file/2491-k4-info-to-postcontainer)          |
 | **(Inv&k4) Traffic Generator [re]**             | [Link](https://github.com/byIx/tgen)    | `2.1.0` | [Link](https://ipbmafia.ru/files/file/2681-invk4-traffic-generator-re)        |
 | **Board Life Status**                           | [Link](https://github.com/byIx/blstatus)| `1.2.0` | [Link](https://ipbmafia.ru/files/file/2171-board-life-status-111)             |
 | **One IP One Account**                          | [Link](https://github.com/byIx/oneip)   | `1.0.1` | [Link](https://github.com/byIx/oneip/releases)                                |
