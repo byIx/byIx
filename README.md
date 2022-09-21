@@ -2,7 +2,7 @@
 
 | Name                                            | Checking                                  | Version | Updates                                                                         |
 | ----------------------------------------------- |:-----------------------------------------:|:-------:|:-------------------------------------------------------------------------------:|
-| **(k4) XF Global Statistics**                   | [Link](https://github.com/byIx/xfglstats) | `1.2.0` | [Link](https://ipbmafia.ru/files/file/2762-k4-xf-global-statistics)             |
+| **(k4) XF Global Statistics**                   | [Link](https://github.com/byIx/xfglstats) | `1.4.0` | [Link](https://ipbmafia.ru/files/file/2762-k4-xf-global-statistics)             |
 | **(k4) Mobile Profile Header Statistics**       | [Link](https://github.com/byIx/mphs)      | `1.1.0` | [Link](https://ipbmafia.ru/files/file/2730-k4-mobile-profile-header-statistics) |
 | **(k4) Member Rank Progress**                   | [Link](https://github.com/byIx/mrp)       | `1.2.0` | [Link](https://ipbmafia.ru/files/file/2686-k4-member-rank-progress)             |
 | **(k4) Global Statistics**                      | [Link](https://github.com/byIx/glstats)   | `2.1.0` | [Link](https://ipbmafia.ru/files/file/2499-k4-global-statistics)                |
