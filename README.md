@@ -17,6 +17,7 @@
 | **(k4) WhosOnline & ActiveUsers NoCache**       | [Link](https://github.com/byIx)           | `1.0.0` | [Link](https://ipbmafia.ru/files/file/2528-k4-whosonline-activeusers-nocache)   |
 | **(k4) Info to postContainer**                  | [Link](https://github.com/byIx/ipc)       | `2.6.0` | [Link](https://ipbmafia.ru/files/file/2491-k4-info-to-postcontainer)            |
 | **(Inv&k4) Traffic Generator [re]**             | [Link](https://github.com/byIx/tgen)      | `2.1.0` | [Link](https://ipbmafia.ru/files/file/2681-invk4-traffic-generator-re)          |
+| **Advanced Online Indicator**                   | [Link](https://github.com/byIx/aoi)       | `2.0.0` | [Link](https://ipbmafia.ru/topic/18419-advanced-online-indicator)               |
 | **Board Life Status**                           | [Link](https://github.com/byIx/blstatus)  | `1.2.0` | [Link](https://ipbmafia.ru/files/file/2171-board-life-status-111)               |
 | **One IP One Account**                          | [Link](https://github.com/byIx/oneip)     | `1.0.1` | [Link](https://github.com/byIx/oneip/releases)                                  |
 | **(SIV41) Insert Nickname**                     | [Link](https://github.com/byIx/insname)   | `1.0.3` | [Link](https://ipbmafia.ru/topic/15373-siv41-insert-nickname-102)               |
