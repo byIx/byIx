@@ -2,6 +2,7 @@
 
 | Name                                            | Checking                                  | Version | Updates                                                                         |
 | ----------------------------------------------- |:-----------------------------------------:|:-------:|:-------------------------------------------------------------------------------:|
+| **(k4) Unreact Bloker**                         | [Link](https://github.com/byIx/unrctb)    | `1.0.0` | [Link](https://ipbmafia.ru/files/file/111)                                      |
 | **(k4) File buttons in Topics**                 | [Link](https://github.com/byIx/vfbt)      | `1.1.0` | [Link](https://ipbmafia.ru/files/file/2771-k4-file-buttons-in-topics)           |
 | **(k4) XF Global Statistics**                   | [Link](https://github.com/byIx/xfglstats) | `2.0.0` | [Link](https://ipbmafia.ru/files/file/2762-k4-xf-global-statistics)             |
 | **(k4) Mobile Profile Header Statistics**       | [Link](https://github.com/byIx/mphs)      | `1.1.0` | [Link](https://ipbmafia.ru/files/file/2730-k4-mobile-profile-header-statistics) |
