@@ -2,7 +2,7 @@
 
 | Name                                            | Checking                                  | Version | Price | Updates                                                                         |
 | ----------------------------------------------- |:-----------------------------------------:|:-------:|:-----:|:-------------------------------------------------------------------------------:|
-| **(k4) Advanced Search - Secondary Groups**     | [Link](https://github.com/byIx/as-sb)     | `1.0.0` | 15$   | [Link](https://github.com/byIx/as-sb)                                           |
+| **(k4) Advanced Search - Secondary Groups**     | [Link](https://github.com/byIx/as-sg)     | `1.0.0` | 15$   | [Link](https://github.com/byIx/as-sg)                                           |
 | **(k4) Unreact Blocker**                        | [Link](https://github.com/byIx/unrctb)    | `1.0.0` | Free  | [Link](https://ipbmafia.ru/files/file/2780-k4-unreact-blocker)                  |
 | **(k4) File buttons in Topics**                 | [Link](https://github.com/byIx/vfbt)      | `1.1.0` | Free  | [Link](https://ipbmafia.ru/files/file/2771-k4-file-buttons-in-topics)           |
 | **(k4) XF Global Statistics**                   | [Link](https://github.com/byIx/xfglstats) | `2.0.0` | Free  | [Link](https://ipbmafia.ru/files/file/2762-k4-xf-global-statistics)             |
