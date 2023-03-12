@@ -2,6 +2,7 @@
 
 | Name                                            | Checking                                  | Version | Price | Updates                                                                         |
 | ----------------------------------------------- |:-----------------------------------------:|:-------:|:-----:|:-------------------------------------------------------------------------------:|
+| **(k4) Viewing Your Votes**                     | [Link](https://github.com/byIx/vyv)       | `1.0.0` | 10$   | [Link](https://github.com/byIx/vyv)                                           |
 | **(k4) Advanced Search - Secondary Groups**     | [Link](https://github.com/byIx/as-sg)     | `1.0.0` | 15$   | [Link](https://github.com/byIx/as-sg)                                           |
 | **(k4) Unreact Blocker**                        | [Link](https://github.com/byIx/unrctb)    | `1.0.0` | Free  | [Link](https://ipbmafia.ru/files/file/2780-k4-unreact-blocker)                  |
 | **(k4) File buttons in Topics**                 | [Link](https://github.com/byIx/vfbt)      | `1.1.0` | Free  | [Link](https://ipbmafia.ru/files/file/2771-k4-file-buttons-in-topics)           |
