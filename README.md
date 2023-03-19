@@ -11,7 +11,7 @@
 | **(k4) Member Rank Progress**                   | [Link](https://github.com/byIx/mrp)       | `1.2.0` | Free  | [Link](https://ipbmafia.ru/files/file/2686-k4-member-rank-progress)             |
 | **(k4) Global Statistics**                      | [Link](https://github.com/byIx/glstats)   | `2.1.0` | Free  | [Link](https://ipbmafia.ru/files/file/2499-k4-global-statistics)                |
 | **(k4) Profile Visitors Count Changer**         | [Link](https://github.com/byIx/pvc)       | `1.1.0` | Free  | [Link](https://ipbmafia.ru/files/file/2680-k4-profile-visitors-count)           |
-| **(k4) Hidden Content**                         | [Link](https://github.com/byIx/hide)      | `2.2.0` | Free  | [Link](https://ipbmafia.ru/files/file/2679-k4-hidden-content)                   |
+| **(k4) Hidden Content**                         | [Link](https://github.com/byIx/hide)      | `2.3.0` | Free  | [Link](https://ipbmafia.ru/files/file/2679-k4-hidden-content)                   |
 | **(k4) Insert Blocks to the Store Packages**    | [Link](https://github.com/byIx/ibsp)      | `1.0.0` | Free  | [Link](https://ipbmafia.ru/files/file/111)                                      |
 | **(k4) Post EditButton**                        | [Link](https://github.com/byIx/posteb)    | `1.0.0` | Free  | [Link](https://ipbmafia.ru/files/file/2629-k4-post-editbutton)                  |
 | **(k4) ACP UploadButtons**                      | [Link](https://github.com/byIx/acpub)     | `1.0.0` | Free  | [Link](https://ipbmafia.ru/files/file/2628-k4-acp-uploadbuttons)                |
